@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adhidevara
 - 👀 I’m interested in PHP, JavaScript, NodeJS, NuxtJS, TailwindCSS, Laravel, Codeigniter
-- 🌱 I’m currently learning NuxtJS, Laravel
-- 💞️ I’m looking to collaborate on PHP or Javascript
+- 🌱 I’m currently learning NuxtJS, Laravel, ReactJS
+- 💞️ I’m looking to collaborate on PHP, ReactJS or Javascript
 - 📫 How to reach me adhidevara09@gmail.com
 
 <!---
